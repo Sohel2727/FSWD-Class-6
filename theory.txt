@@ -1,0 +1,6 @@
+
+=====Basic Web Structure====
+
+1.Header
+2.Body(content)
+3.Footer
